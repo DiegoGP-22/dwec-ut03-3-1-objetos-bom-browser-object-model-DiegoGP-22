@@ -1,4 +1,4 @@
-// Author: Carlos Tessier
+// Author: Diego García Prieto
 // Version: 1.0
 // Date: 2024/10/01
 
